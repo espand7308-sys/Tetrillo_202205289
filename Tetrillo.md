@@ -7,3 +7,4 @@ El diagrama de flujo muestra como funciona y reacciona el juego. (Fue entregado 
 ## Menú del juego
 Muestro un diseño del menú que será utilizado en el juego final. Dejo el programa agregado
 ## Codigo
+Ya terminado el código dejo el juego completo en los archivos
